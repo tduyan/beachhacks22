@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "249929017091",
+    "project_id": "beachhacks22-aec37",
+    "storage_bucket": "beachhacks22-aec37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249929017091:android:4eb3024991330418c86b36",
+        "android_client_info": {
+          "package_name": "com.example.qr_biz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249929017091-010rabu1oksmeaar5cq1dau2ircpjkmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4MxNIivrN_2I9ekQq_Y9xD-GhAKpReUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249929017091-010rabu1oksmeaar5cq1dau2ircpjkmn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
